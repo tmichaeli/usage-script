@@ -7,9 +7,9 @@ import ssl
 import atexit
 
 # Configuration
-VCENTER_SERVER = "vcf01-prg-vc01.prglab.site"
+VCENTER_SERVER = "XXX"
 USERNAME = "administrator@vsphere.local"
-PASSWORD = "VMware1!"
+PASSWORD = "XXX"
 PORT = 443  # Default vCenter port
 
 # Bypass SSL verification (not recommended for production)
